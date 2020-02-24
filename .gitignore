@@ -1,0 +1,18 @@
+#images 
+images/*
+__pycache__
+
+# local env files
+.env.local
+.env.*.local
+db.sqlite
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
