@@ -1,4 +1,4 @@
-# Api para o projeto pastel de ideias
+## Api para o projeto pastel de ideias
 
 Está é uma api que se integra com o sistema Pastel de ideias, ela funciona em python com sqlite 3, foi desenvolvida usando **Flask**, **SQL Alchemy** e **Marshmallow**
 
